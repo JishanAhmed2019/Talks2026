@@ -28,7 +28,7 @@ Talks2026/
 
 | Date | Title | Venue | Location | Slides |
 |------|-------|-------|----------|--------|
-| Apr 22, 2026 | From Text to Behavior: Making Probabilistic AI Visible with Embodied Robots | Innovative Tech Showcase, Weber State University | Ogden, UT | [PDF](2026/AITalk.pdf) |
+| Apr 22, 2026 | From Text to Behavior: Making Probabilistic AI Visible with Embodied Robots | Innovative Tech Showcase, Weber State University | Ogden, UT | [PDF](2026/PresentationsJishan.pdf) |
 | Mar 24, 2026 | Learning Market Signals from Financial News Headlines Using Interpretable Machine Learning | Faculty & Graduate Research Colloquium, Dept. of Mathematical Sciences, Ball State University | Muncie, IN | [PDF](2026/BSUTalk_NLP.pdf) |
 
 ### 2025
@@ -42,7 +42,7 @@ Talks2026/
 
 | Date | Title | Venue | Location | Slides |
 |------|-------|-------|----------|--------|
-| Sep 23, 2024 | The False Promise of ChatGPT: Uncovering the Truth Behind Large Language Models | Math Factor Seminar Series, Mathematics Club | Ogden, UT | *slides pending* |
+| Sep 23, 2024 | The False Promise of ChatGPT: Uncovering the Truth Behind Large Language Models | Math Factor Seminar Series, Mathematics Club | Ogden, UT | [PDF](2026/AITalk.pdf) |
 | May 3, 2024 | Fundamentals of Large Language Models and Ethical Implications | AI Learning Community Workshop, Weber State University | Ogden, UT | *slides pending* |
 | Feb 26, 2024 | The Cocktail Party Problem: Solving with Independent Component Analysis (ICA) | Math Factor Seminar Series, Mathematics Club | Ogden, UT | [PDF](2024/ICAMathMonday.pdf) |
 
