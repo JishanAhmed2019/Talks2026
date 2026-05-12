@@ -5,23 +5,6 @@
 
 ---
 
-## 📁 Project Structure
-
-```
-Talks2026/
-├── README.md
-├── 2026/
-│   ├── AITalk.pdf                ← From Text to Behavior (WSU, April 2026)
-│   └── BSUTalk_NLP.pdf           ← Learning Market Signals (Ball State, March 2026)
-├── 2025/
-│   ├── JishanASALight.pdf        ← Imbalanced Data (SDSS Lightning Talk, April 2025)
-│   └── SVDTalkSLC4_5_25.pdf      ← Hidden Structure in Big Data (SLC Math For All, April 2025)
-└── 2024/
-    └── ICAMathMonday.pdf         ← Cocktail Party Problem / ICA (Math Factor, Feb 2024)
-```
-
----
-
 ## 🗓️ Talk Index
 
 ### 2026
